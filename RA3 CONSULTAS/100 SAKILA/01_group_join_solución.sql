@@ -1,3 +1,4 @@
+use sakila;
 
 -- ==============================================
 -- SECCIÓN A) 30 CONSULTAS CON JOIN DE 2 TABLAS
